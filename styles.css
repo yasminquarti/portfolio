@@ -1,0 +1,26 @@
+/*universal*/
+
+@import url('https://fonts.googleapis.com/css2?family=Prosto+One&display=swap');
+
+*{
+    background-color: #242526;
+    color: antiquewhite;
+};
+
+/* header */
+
+header {
+
+};
+
+img .profile-pic{
+    height: 20px;
+    width: auto;
+};
+li {
+    list-style-type: none;
+};
+
+h1 {
+    font-family: 'Prosto One';
+};
